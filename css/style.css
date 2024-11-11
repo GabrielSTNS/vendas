@@ -134,3 +134,10 @@ textarea {
   border-color: #673ab7;
   color: #673ab7;
 }
+
+.footer-page {
+  text-align: center;
+  background-color: #673ab7;
+  height: 20px;
+  color: #FFF;
+}
